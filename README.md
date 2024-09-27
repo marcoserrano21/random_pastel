@@ -1,10 +1,9 @@
 # Pastel Color Generator and Visualizer
 #### Video Demo:  [https://youtu.be/NMefxkS7eb0]
 #### Description:
-Project Overview
 This project is a Python-based Pastel Color Generator that allows users to generate random pastel colors and display them graphically using matplotlib. The application generates a random color in hex format, converts it to an RGB format, and displays it on the screen. It then asks the user if they want to generate another color. The main purpose of the project is to practice Python programming, explore random color generation, and implement simple plotting functionality.
 
-The project consists of several functions, each with a specific purpose. The user has the option to continuously generate new colors or exit the program after viewing a generated pastel color.
+The project consists of several functions, each with a specific purpose. The user then has the option to continuously generate new colors or exit the program after viewing a generated pastel color.
 
 #### Files in the Project:
 random_pastel
