@@ -7,7 +7,7 @@ This project is a Python-based Pastel Color Generator that allows users to gener
 The project consists of several functions, each with a specific purpose. The user has the option to continuously generate new colors or exit the program after viewing a generated pastel color.
 
 #### Files in the Project:
-main.py
+random_pastel
 This is the primary file of the project and contains the following key functions:
 
 main()
